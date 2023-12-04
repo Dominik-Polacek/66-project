@@ -8,6 +8,7 @@ public class Order66Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Order66Application.class, args);
+        Future.future();
     }
 
 }
